@@ -1033,15 +1033,15 @@
       "url": "_framework\/Markdig.dll"
     },
     {
-      "hash": "sha256-gsPUK5MPEytu+GgZXlgPHPCiAQm8jaWpvW\/hcvd1vt0=",
+      "hash": "sha256-dTBhpQ7r9wZMqJziH9G+34UoIcTVnzmeAOh0h\/CxvAg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-YUfDiIWcGZ7NhtZq117yGDFturb5IzlQKHR\/JFMwV88=",
+      "hash": "sha256-Nnza15QHf7igAxWumKm1y9mSws3EEyCOxSGj0YP36vs=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-MOjc1UXg4gX8KJ8UdswRwScj0H2khgJg7m4JB\/Pe6P8=",
+      "hash": "sha256-MRpwl4KTd6nmovh8UvDF7oA75PX+kefuG\/BNBMT9kdY=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -1057,7 +1057,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-sFLIXlNE+1rsIVDR7vHabGMLsLCzlNOaBgPZSlix\/bc=",
+      "hash": "sha256-qQDpYs2wfVy0KvmLW1zf2zi2d0U+wQ\/yG+NNWG9Puk4=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
@@ -1081,11 +1081,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-114c7Kng5wf2dRo39ix9XLd9gu\/uEVko0oqnNohR3rA=",
+      "hash": "sha256-E3wWpdYhb0k2rxsSxtLYNRv652Vqa4jD10tJ7YcHMfU=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-YlYt1zT1hT+aqQZN29dDxRiK4W\/IlVEC3wpLUTx9jtY=",
+      "hash": "sha256-qCntZAfBCtfByp1bUyV5HBcJpgteCGZZ1pMzH5kVDnE=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -1113,11 +1113,11 @@
       "url": "_framework\/Otourdemoi.Core.dll"
     },
     {
-      "hash": "sha256-wLc5a5f0kUXfA18iMEsudV0Pvp3Y9c6fVFKIVQgQ3JA=",
+      "hash": "sha256-59gSeHcdT023yOZt3Hy8eNiBwY1Tg7BHYGUpHFULryw=",
       "url": "_framework\/Otourdemoi.Web.dll"
     },
     {
-      "hash": "sha256-Fs2ZecUhoyh5M2iPHYbexP58BdcvrGnALIxdMH86igw=",
+      "hash": "sha256-uuaxPOQwlXMnCI5a9QudGa6591JjVDdQUWC\/7OYDpMI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1125,5 +1125,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "dXeoOG9t"
+  "version": "2ZDhHreM"
 };
